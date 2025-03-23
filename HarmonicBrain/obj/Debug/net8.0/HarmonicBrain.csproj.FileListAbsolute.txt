@@ -1,0 +1,6 @@
+/workspaces/harmonic_brain_windows/HarmonicBrain/obj/Debug/net8.0/HarmonicBrain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/harmonic_brain_windows/HarmonicBrain/obj/Debug/net8.0/HarmonicBrain.AssemblyInfoInputs.cache
+/workspaces/harmonic_brain_windows/HarmonicBrain/obj/Debug/net8.0/HarmonicBrain.AssemblyInfo.cs
+/workspaces/harmonic_brain_windows/HarmonicBrain/obj/Debug/net8.0/HarmonicBrain.csproj.CoreCompileInputs.cache
+/workspaces/harmonic_brain_windows/HarmonicBrain/obj/Debug/net8.0/HarmonicBrain.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/harmonic_brain_windows/HarmonicBrain/obj/Debug/net8.0/HarmonicBrain.sourcelink.json
